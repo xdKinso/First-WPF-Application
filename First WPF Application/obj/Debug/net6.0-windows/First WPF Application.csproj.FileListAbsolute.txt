@@ -1,0 +1,21 @@
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\bin\Debug\net6.0-windows\First WPF Application.exe
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\bin\Debug\net6.0-windows\First WPF Application.deps.json
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\bin\Debug\net6.0-windows\First WPF Application.runtimeconfig.json
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\bin\Debug\net6.0-windows\First WPF Application.dll
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\bin\Debug\net6.0-windows\First WPF Application.pdb
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application_MarkupCompile.cache
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application_MarkupCompile.lref
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.g.resources
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.AssemblyInfo.cs
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.dll
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\refint\First WPF Application.dll
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.pdb
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\First WPF Application.genruntimeconfig.cache
+C:\Users\Administrator\Documents\software development 3\First WPF Application\First WPF Application\obj\Debug\net6.0-windows\ref\First WPF Application.dll
